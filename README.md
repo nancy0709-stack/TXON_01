@@ -1,1 +1,1 @@
-# TXON_01
+An ebook landing page is a page that explains what an ebook is about and collects information from visitors in exchange for downloading it. The goal of an ebook landing page is to convert visitors into leads.
